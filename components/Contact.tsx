@@ -59,7 +59,7 @@ Message: ${formData.message}`;
             Get In <span className="bg-gradient-to-r from-blue-600 to-blue-800 bg-clip-text text-transparent">Touch</span>
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.
+            Have questions? We&apos;d love to hear from you. Send us a message and we&apos;ll respond as soon as possible.
           </p>
           <div className="mt-8 flex justify-center">
             <div className="w-24 h-1 bg-gradient-to-r from-blue-600 via-blue-500 to-yellow-400 rounded-full"></div>

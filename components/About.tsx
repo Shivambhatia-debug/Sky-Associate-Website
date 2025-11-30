@@ -104,7 +104,7 @@ export default function About() {
                     <p className="text-blue-600 font-semibold text-lg mb-4">GST Practitioner</p>
                     <div className="w-16 h-0.5 bg-gradient-to-r from-blue-600 to-yellow-400 mx-auto mb-4"></div>
                     <p className="text-gray-600 italic text-base leading-relaxed">
-                      "Your satisfaction is our first priority"
+                      &ldquo;Your satisfaction is our first priority&rdquo;
                     </p>
                   </div>
                 </div>
